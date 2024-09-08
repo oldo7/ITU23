@@ -1,0 +1,2 @@
+Vybrané téma: Plánovač udalostí na internátoch. Zhodli sme sa, že z troch navrhovaných tém má táto aplikácia najväší potenciál sa uplatniť v praxi, a bola by najviac užitočná. Týka sa niečoho, čo je všetkým nám trom blízke, pretože sme bývali alebo bývame na internáte.
+Navyše to znamená že bude pre nás jednoduché získať spätnú väzbu a návrhy od cieľovej skupiny (obyvateľov internátov). Každý z nás si vie predstaviť, ako by aplikácia mohla vyzerať a s akými dátami bude pracovať.

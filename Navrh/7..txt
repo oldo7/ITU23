@@ -1,0 +1,8 @@
+[moje akcie, najist akciu]
+
+Ihneď po otvorení aplikácie uživateľ vidí obrazovku "nájisť akciu". Uživateľ ihneď vidí možnosti filtrovania, a pod nimi zoznam akcii. Možnosti filtrovania sú jednoduché a prehľadné. (bod č. 1) Vďaka tomu, že uživateľ vidí pod filtrom zoznam akcii, je mu jasnejšie, čo filtruje a ako jeho filtre ovplyvnia zobrazované akcie. Náhľad akcii je pomerne rozsiahly, aby uživateľ videl ku každej akcii všetky dôležité informácie bez toho, aby si ich musel vôbec rozkliknúť. Náhľad zobrazuje okrem iného aj minimálny, maximálny a aktuálny počet
+prihlásených uživateľov (bod č. 2). Okrem toho sa vie z náhľadu priamo na akciu prihlásiť alebo odhlásiť (bod č. 3).
+
+[detail akcie]
+
+Obrazovka detailu akcie sa zobrazí, keď uživateľ klikne na nejakú akciu (Môže kliknúť kamkoľvek do stmavnutého obdĺžnika náhľadu akcie). Okrem prehľadného zobrazenia všetkých informácii o akcii obsahuje táto obrazovka aj zoznam uživateľov ktorý sa akcie zúčastnia a organizátora. Uživateľ ich môže z tejto obrazovky kontaktovať tým, že klikne na ich meno (bod č. 4). Okrem toho sa tu nachádza ešte veľmi jednoduché diskusné fórum, kam uživatelia môžu posielať otázky, pripomienky alebo akékoľvek komentáre k danej akcii (bodč. 6).

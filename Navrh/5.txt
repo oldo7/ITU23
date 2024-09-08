@@ -1,0 +1,22 @@
+Kľúčové potreby uživateľov:
+- Uživateľ si chce rýchlo a jednoducho vyfiltrovať udalosti podľa času alebo kategórie.
+- Uživateľ môže ale nemusí byť anonymný.
+- Uživateľ sa chce pozrieť, akých akcii sa zúčastňujú jeho priatelia, resp. iný uživatelia.
+- Uživateľ chce jediným kliknutím potvrdiť svoju účasť na udalosti
+- Organizátor aj uživatelia potrebujú hneď vedieť, koľko ľudí sa plánuje akcie zúčastniť a aká je kapacita.
+- Uživateľ chce byť schopný pri jednotlivých udalostiach kontaktovať organizátora alebo zúčastnených.
+
+Uživateľské procesy:
+Uživateľ otvorí aplikáciu, klikne na kartu udalostí, kde si chce vyhladať nejaký udalosť k dnešnému dňu. Vyfiltruje udalosti podľa dňa na 
+tie, ktoré sa konajú dnes. Po aplikovaní filtru sa mu zobrazia udalosti, pri ktorých ihneď vidí základné informácie, vyberie si z nich jednu ktorej sa chce zúčastniť, klikne na tlačidlo zúčastnenia, a tým potvrdzuje svoju účasť.
+
+Uživateľ zistil, že sa nejakej udalosti ktorej sa mal zúčastniť zúčastniť nemôže. Hneď po otvorení aplikácie sa preklikne na kartu jeho udalostí, kde vidí prehľad všetkých udalostí, ktorých sa plánuje zúčastniť. V zozname nájde udalosť, ktorej sa zúčastniť nemôže a pri nej klikne na tlačidlo zrušenia účasti.
+
+Kľúčové vlastnosti aplikácie:
+- Jednoduché, intuitívne a rýchle filtrovanie udalostí, primárne podľa času
+- Zobrazenie počtu zúčastnených a kapacity už pri náhľade udalosti
+- Schopnosť prihlásiť sa na udalosť z náhľadu udalosti
+- Zobrazovanie všetkých zúčastnených na danej udalosti a možnosť ich kontaktovania
+- Každý uživateľ má profil, kam je schopný si uložiť informácie o sebe.
+- Jednoduché diskusné fóra ku každej udalosti
+- Zobrazenie prehľadu všetkých udalostí daného uživateľa, možnosť ich odhlásiť.

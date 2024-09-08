@@ -1,0 +1,14 @@
+Existujúca aplikácia: Facebook skupiny jednotlivých internátov. Každý internát má na Facebooku založenú svoju stránku, kam ľudia môžu pridávať príspevky. Príspevky sa okrem organizácie a pozvánok na rôzne akcie týkajú aj mnohých iných vecí. Príspevky majú formu jednoduchého textu prípadne obrázku, a pod príspevkami sú komentáre.
+Výhody:
++ V skupinách je relatívne veľké množstvo ľudí a sú aktívne
++ Uživateľ vie priamo k príspevku pridať komentár, s jedným preklikom poslať správu organizátorovi
++ Uživateľ si vie priamo z príspevku pozrieť profil organizátora kde sa často dá zistiť relatívne veľké množstvo informácii.
++ Súčasťou veľmi populárnej platformy Facebook, ktorú ľudia používajú aj na iné účely.
+
+Nevýhody:
+- Príspevky týkajúce sa akcii sú stratené medzi príspevkami ostatného typu.
+- Žiadna možnosť filtrácie príspevkov podľa času alebo kategórie
+- Absolútne žiadny prehľad o počte zúčastnených, alebo informáciach o nich.
+- Potvrdenie o zúčastnení sa väčšinou deje napísaním správy organizátorovi, kde sa uživateľ musí prekliknúť na jeho profil, následne kliknúť na tlačidlo napísať správu a správu samozrejme napísať.
+
+Naša aplikácia by určite mala umožňovať nejakú diskusiu priamo pod jednotlivými udalosťami. Každý uživateľ by mal mať svoj profil na ktorom má aspoň minimálne informácie o sebe. Zoznam zúčastnených uživateľov by mal byť každému dostupný, aby si každý vedel overiť, kto konkrétne sa akcie zúčastní a prípadne si o ňom niečo málo zistiť. Uživateľ by mal mať možnosť jednoducho kontaktovať organizátora a prípadne aj účastníkov.

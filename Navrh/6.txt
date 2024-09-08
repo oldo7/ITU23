@@ -1,0 +1,16 @@
+Rozhodli sme sa pre taký zpôsob rozdelenia práce, že každý spraví časť aplikácie, a jednotlivé časti sa potom spoja do jednej výslednej aplikácie. Aby sme zaistili jednotnosť kľúčových prvkov aplikácie, ktoré by mali byť vo všetkých častiach rovnaké (farebná paleta, navigačný panel), začal jeden člen s prácou trochu skôr. Keď už mal navrhnutú dosť veľkú časť na to, aby bolo zrejmé akým vizuálnym štýlom sa aplikácia uberá, dal svoj prototyp ostatným členom týmu, ktorý podľa neho spravili svoje pridelené časti aplikácie.
+
+Rozdelenie práce:
+Oliver Nemček:
+-Obrazovka nájisť akcie
+-Obrazovka moje akcie
+-Obrazovka detail akcie
+
+Matúš dobiáš:
+-Obrazovka Profil
+...
+
+Martin Packa:
+-Obrazovka Vytvorenia udalosti
+...
+

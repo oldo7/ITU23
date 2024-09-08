@@ -1,0 +1,385 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .buttons {
+    width: 200px;
+    margin: 0 auto;
+    display: inline;}
+    
+        .action_btn {
+    float: right;
+    width: 200px;
+    margin: 0 auto;
+    display: inline;}
+  
+    .createu {
+      max-width: auto;
+      margin-left: 15%;
+      margin-right: 15%;
+      margin-top: 50px;
+      text-align: center;
+    }
+    .createu label {
+      font-weight: bold;
+      text-align: left;
+      display: block;
+    }
+    .createu input, .createu textarea, .createu select {
+      width: 100%;
+      padding: 6px 10px;
+      margin: 10px 0;
+      border: 2px solid #000000;
+      background-color: transparent;
+      border-radius: 8px;
+      font-size: large;
+      line-height: 28px;
+      box-sizing: border-box;
+      display: block;
+    }
+  
+    .create {
+      max-width: auto;
+      column-gap: 50px;
+      margin-left: 15%;
+      margin-right: 15%;
+      text-align: center;
+      
+    }
+    .create label {
+      font-weight: bold;
+      text-align: left;
+      display: block;
+    }
+    .create input, .create textarea, .create select {
+      width: 100%;
+      padding: 6px;
+      margin: 10px;
+      border: 1px solid #ddd;
+      box-sizing: border-box;
+      display: block;
+      border-radius: 8px;
+      border: 2px solid #000000;
+      background-color: transparent;
+      border-radius: 8px;
+      font-size: large;
+      line-height: 28px;
+    }
+    .createContainer button {
+      background: #2bbe2b;
+      color: #fff;
+      border: 0;
+      font-size: 20px;
+      padding: 13px;
+      border-radius: 50px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+  
+    .logo {
+      left: 0;
+      float: left;
+      margin-right: auto;
+      margin-left: 10px;
+    }
+    
+    .buttonsBackground {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      padding: 0px;
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      z-index: 1;
+      overflow: visible;
+      background-color: #8b0000;
+    }
+    
+    .navlink {
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: bold;
+      padding: 10px;
+      margin: 5px;
+      margin-right: 15px;
+      display: inline-block;
+    }
+  
+    .udalosti-preview {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #000;
+      margin-bottom: 10px;
+      opacity: 0.8;
+      border-radius: 8px;
+      text-decoration: none;
+      padding-bottom: 50px;
+    }
+    
+  
+    .ZaujemButton button{
+      background: #2bbe2b;
+      color: #fff;
+      border: 0;
+      font-size: 15px;
+      padding: 8px;
+      border-radius: 50px;
+      cursor: pointer;
+      margin-left: 70px;
+    }
+  
+    .filters{
+      padding-bottom: 10px;
+    }
+  
+    .detail{
+      color: white;
+    }
+  
+    .timeLine {
+      width: 100%;
+      top: 0;
+      left: 0;
+      padding: 0px;
+      display: flex;
+      justify-content: left;
+      float: left;
+      align-items: center;
+      z-index: 1;
+      overflow: visible;
+    }
+  
+    .udalostinfo {
+      margin-top: 10px;
+      margin-left: 13px;
+      color: white;
+      font-size: 23px;
+      margin-right: 50px;
+    }
+  
+    .udalostinfo2 {
+      margin-left: 17px;
+      text-decoration: none;
+      color: white;
+      font-size: 26px;
+      margin-right: 50px;
+      font-weight: bold;
+      display: flex;
+      justify-content: left;
+      
+      float: left;
+      align-items: center;
+    }
+  
+    .udalostinfo3 {
+      width: 100%;
+      margin-left: 19px;
+      margin-right: 20px;
+      overflow-wrap: break-word;
+      max-width: 90%;
+      text-decoration: none;
+      color: white;
+      font-size: 13px;
+      margin-right: 50px;
+      text-align: left;
+      float: left;
+    }
+  
+    .ciara {
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 20px;
+    }
+  
+    .spodok {
+      width: 100%;
+      margin-left: 19px;
+      overflow-wrap: break-word;
+      max-width: 90%;
+      text-decoration: none;
+      color: white;
+      font-size: 13px;
+      float: left;
+      column-count: 3;
+      column-gap: 100px;
+      text-align: left;
+    }
+  
+    .lokacia {
+      color: rgb(182, 181, 181);
+      font-size: 14px;
+      margin-top: 7px;
+      margin-left: 15px;
+    }
+  
+    .discuss {
+      text-align: center;
+      font-size: 16px;
+      padding: 8px;
+      margin-left: 15px;
+    }
+  
+    .detailUd {
+      color: white;
+    }
+  
+    .zucastnenie {
+      padding-top: 3px;
+      padding-left: 0px;
+    }
+  
+    .discussWrapper :hover{
+      cursor: pointer;
+      background-color:gray;
+      color: white;
+    }
+  
+    .ucwrapper {
+      margin-left: 285px;
+      padding-top: 10px;
+    }
+  
+    .udalostinfo4 {
+      margin-top: 10px;
+      margin-left: 13px;
+      font-weight: bold;
+      color: white;
+      font-size: 22px;
+      margin-right: 50px;
+    }
+  
+    .diskusiaWrapper {
+      margin-top: 70px;
+    }
+
+    .editButtons {
+        padding-top: 40px;
+        align-items: center;
+    }
+
+    .editButtons button {
+        margin: 20px;
+        background: #270e0e;
+        color: #fff;
+        border: 0;
+        font-size: 18px;
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .prispevok {
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 75%;
+        background-color: white;
+        color: black;
+        border: 3px solid black;
+        box-sizing: border-box;
+        font-size: 20px;
+        padding: 7px;
+    }
+
+    .fromuser {
+        text-align: left;
+        font-size: 15px;
+        font-weight: bold;
+        color: darkgreen;
+    }
+
+    .prispevok-text {
+        text-align: left;
+        font-size: 18px;
+        margin-left: 5px;
+    }
+
+    .pridatPrispevok input {
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        background-color: white;
+        color: black;
+        border: 3px solid black;
+        box-sizing: border-box;
+        font-size: 15px;
+        line-height: 30px;
+        padding: 7px;
+    }
+
+    .pridatPrispevok button {
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+        background-color: rgb(21, 105, 4);
+        color: rgb(255, 255, 255);
+        font-size: 19px;
+        padding: 8px;
+        font-weight: bold;
+
+        border: 3px solid black;
+        box-sizing: border-box;
+    }
+
+    .prispevokButton :hover{
+        cursor: pointer;
+    }
+
+    .detailSpodok {
+        display: flex;
+    }
+
+    .leftWrapper {
+        flex: 1;
+    }
+
+    .kategoria {
+        text-align: left;
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    .organizator {
+        text-align: left;
+        font-size: 20px;
+        font-weight: bold;
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+
+    .zaujemci {
+        width: 50%;
+        float: left;
+        text-align: left;
+        padding-top: 10px;
+        margin-left: 50px;
+    }
+
+    .cervena button {
+        background-color: red;
+    }
+
+    .cervena :hover {
+        cursor:default
+    }
+
+    .trh_img {
+        width: 100%;
+        height: 100%;
+    }

@@ -1,0 +1,48 @@
+Dotazník som pokladal mojím dvom spolubývajúcim na internáte, ako potenciálnym budúcim uživateľom aplikácie.
+
+Spolubývajúci 1:
+Zúčastňuješ sa niekedy spoločenských aktivít s ľuďmi na internáte, ako je napríklad hranie futbalu alebo chodbové párty? Ak áno, o akú aktivitu sa obvykle jedná?
+S kamošom si občas chodíme zahrať futbal s ľuďmi z internátu. Okrem toho asi nie. Boli sme na jednej chodbovici a tá nedopadla moc dobre.
+
+Ako sa väčšinou dozvieš o konaní nejakej udalosti alebo akcie na internáte?
+S ľuďmi s ktorými hrávame futbal sa väčšinou dohodneme v messengerovej skupine. Ako sme ich našli pôvodne si už nepamätám, tuším cez nejaký príspevok na facebooku v internátovej skupine. O chodbovici mi povedal kamarát.
+
+S akými problémami si sa stretol, keď si sa zúčastňoval akcie usporiadanej na internáte? S čím si bol naopak spokojný?
+Keď hrávame futbal, niekedy je organizácia trochu chaotická a nikdy nieje úplne jasné, koľko ľudí vlastne príde. Dosť často sa stáva, že nás je dosť málo, ale hráme aj tak.
+
+Myslíš si, že by si dokázal na internáte usporiadať nejakú udalosť, na ktorú by si potreboval viacej ľudí? Akým spôsobom by si akciu organizoval?
+Nemyslím si že by som sa na to podujal. Maximálne by som skúsil zohnať pár ľudí, keby už mám zo začiatku nejakú partiu. To by som asi spravil tak že by som poslal správu na Discord.
+
+Stáva sa ti niekedy, že na internáte máš voľný čas, a máš chuť ho vyplniť nejakou spoločenskou aktivitou? Ak áno, čo podnikneš?
+Úprimne, ani nie. Ak mám nejakým zázrakom čas, sadnem si za počítač. Ak už naozaj potrebujem ísť von, dohodnem sa s kamošom.
+
+Zvážil by si účasť na nejakej aktivite na internáte, keby existuje nástroj ktorý by aktivity prehľadne zobrazoval podľa času, a k aktivitám by bol dostatok informácii? Čo by si od takého nástroja vyžadoval?
+Asi áno. Myslím si že stále by som preferoval sa dohodnúť na niečom s kamarátmi, ale je možné že by som si nejakú aktivitu našiel aj týmto spôsobom. Bolo by fajn keby viem danú osobu ihneď kontaktovať a dohodnúť sa.
+---------------------------
+Spolubývajúci 2:
+Zúčastňuješ sa niekedy spoločenských aktivít s ľuďmi na internáte, ako je napríklad hranie futbalu alebo chodbové párty? Ak áno, o akú aktivitu sa obvykle jedná?
+Občas s kamarátmi pijeme na izbe alebo hráme hry ak sa to ráta. Okrem toho vôbec.
+
+Ako sa väčšinou dozvieš o konaní nejakej udalosti alebo akcie na internáte?
+No, občas vidím, že do skupiny na Faceboku ľudia pridávaju pozvánky na hranie futbalu. 
+
+S akými problémami si sa stretol, keď si sa zúčastňoval akcie usporiadanej na internáte? S čím si bol naopak spokojný?
+Nikdy som sa takej "internátovej" akcie nezúčastňoval, ak už idem niečo robiť tak s ľuďmi ktorých už poznám.
+
+Myslíš si, že by si dokázal na internáte usporiadať nejakú udalosť, na ktorú by si potreboval viacej ľudí? Akým spôsobom by si akciu organizoval?
+Určite nie.
+
+Stáva sa ti niekedy, že na internáte máš voľný čas, a máš chuť ho vyplniť nejakou spoločenskou aktivitou? Ak áno, čo podnikneš?
+Asi nie. Keby sa mi to stalo, asi by som zavolal nejakému kamarátovi či nemá čas.
+
+Zvážil by si účasť na nejakej aktivite na internáte, keby existuje nástroj ktorý by aktivity prehľadne zobrazoval podľa času, a k aktivitám by bol dostatok informácii? Čo by si od takého nástroja vyžadoval?
+Ťažko povedať. Asi by som sa aspoň zo zvedavosti pozrel, čo ľudia robia. Asi by som chcel byť schopný si zistiť niečo o ľuďoch ktorý sa akcie zúčastňujú.
+-------------------
+
+Získané poznatky:
+- Ľudia silno preferujú aktivity s ľuďmi, ktorých už poznajú.
+- Organizácia akcii sa deje cez Facebook alebo Discord. 
+- Akcie ktoré sa organizujú opakovane môžu mať vytvorený vlastný skupinový chat, kde prebieha organizácia.
+- Veľkým problémom v organizácii je nedostatočný prehľad o počte ľudí, ktorý sa zúčastnia.
+- Vo voľnom čase aktuáľne ľuďom ani nenapadne skupinová akcia ako možnosť trávenia voľného času, z časti pre to že neexistuje nástroj kde by sa dali akcie jednoducho nájisť.
+- Ľudia chcú mať základné informácie o ľuďoch, ktorý sa akcie zúčastnia.
